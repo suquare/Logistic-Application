@@ -1,0 +1,16 @@
+<template>
+    <div class="app slds-p-around_x-large">        
+        <lightning-input-address
+            data-name='txtBillingAddress'
+            address-label="Billing Address"
+            street-label="Street"
+            city-label="City"
+            country-label="Country"
+            province-label="Province"
+            postal-code-label="PostalCode"
+            required
+            field-level-help="Help Text for inputAddress field"
+            onchange={genericInputChange}
+            ></lightning-input-address>
+    </div>
+</template>
