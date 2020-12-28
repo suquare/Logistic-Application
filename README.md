@@ -34,9 +34,29 @@ Fields used in the Product Tab.
 In Dashboard, I have added 2 Reports, one is to see the order details , a one stop dashboard to have a quick look at details of an order and the 2nd is for to know the Status of the orders we have received.
 ![Dashboard](https://user-images.githubusercontent.com/75612168/103171942-ff81c400-4875-11eb-86c5-e61780532921.PNG)
 
-Email Template
+Email Received on email  ID.
 ![Email Received](https://user-images.githubusercontent.com/75612168/103171947-00b2f100-4876-11eb-86aa-84b22b482d50.PNG)
 
+Settings of Order Placed Template
+![Email Template Details](https://user-images.githubusercontent.com/75612168/103171948-00b2f100-4876-11eb-83d8-e5f679fe8ca4.PNG)
+
+Various Templates created for our application
+![Email Templates Created](https://user-images.githubusercontent.com/75612168/103171949-014b8780-4876-11eb-89a0-f4652bff4c33.PNG)
+
+Invoice Button created on Customer Object and it's applied settings.
+![Invoice Button](https://user-images.githubusercontent.com/75612168/103171952-027cb480-4876-11eb-996e-b10bdd1a080d.PNG)
+
+Invoice Generated Display
+![Invoice](https://user-images.githubusercontent.com/75612168/103171953-027cb480-4876-11eb-9c7a-7a419061f565.PNG)
+
+Workflow rules that we have created for following tasks.
+![Workflow Rules](https://user-images.githubusercontent.com/75612168/103171960-04df0e80-4876-11eb-8df1-9c09aeb9ce22.PNG)
+
+Rule which we have set for Shipped Product
+![Shipped Rule](https://user-images.githubusercontent.com/75612168/103171958-03ade180-4876-11eb-808a-635d27247e59.PNG)
+
+VisualForce Page that we have used to display invoice.
+![VF Page](https://user-images.githubusercontent.com/75612168/103171959-04467800-4876-11eb-9b8a-b703cb6cea0d.PNG)
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
