@@ -34,6 +34,9 @@ Fields used in the Product Tab.
 In Dashboard, I have added 2 Reports, one is to see the order details , a one stop dashboard to have a quick look at details of an order and the 2nd is for to know the Status of the orders we have received.
 ![Dashboard](https://user-images.githubusercontent.com/75612168/103171942-ff81c400-4875-11eb-86c5-e61780532921.PNG)
 
+Email Template
+![Email Received](https://user-images.githubusercontent.com/75612168/103171947-00b2f100-4876-11eb-86aa-84b22b482d50.PNG)
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
